@@ -15,4 +15,4 @@
 | 09-redirection | An introduction to file reading |
 | 10-linkedlist | An implementation of LinkedLists |
 | 11-radix | An implementation of radix sort |
-| 12-travelling-salesman | A *slow* solution to the (Travelling Salesman)[https://en.wikipedia.org/wiki/Travelling_salesman_problem] problem|
+| 12-travelling-salesman | A *slow* solution to the [Travelling Salesman](https://en.wikipedia.org/wiki/Travelling_salesman_problem) problem|
